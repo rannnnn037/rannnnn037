@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi，我是 Rannie
 
-<!--
-**rannnnn037/rannnnn037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 非科班背景，正在系统学习 C++ / Python  
+💡 求职方向：嵌入式软件 / 测试开发 / 技术型产品  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 技术栈
+- C++：基础语法、指针、结构体、模块化编程
+- Python：脚本工具、日志分析、自动化思维
+- 工具：Git / GitHub / VS Code
+
+---
+
+### 📂 项目一览
+- 📌 模拟嵌入式设备状态管理系统（C++）
+- 📌 设备日志分析工具（Python）
+- 📌 自动化测试工具（Python）
+
+👉 每个项目都包含 README，说明设计思路与实现细节
+
+---
+
+### 📈 学习状态
+- 持续更新中（每周至少 3 次提交）
